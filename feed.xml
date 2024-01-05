@@ -3,10 +3,30 @@
     <title>katapult.exe</title>
     <link href="https://kashishkumar.works/feed.xml" rel="self" />
     <link href="https://kashishkumar.works" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2024-01-05T01:14:14-05:00</updated>
     <author>
         <name>Kashish Kumar</name>
     </author>
     <id>https://kashishkumar.works</id>
 
+    <entry>
+        <title>first entry</title>
+        <author>
+            <name>Kashish Kumar</name>
+        </author>
+        <link href="https://kashishkumar.works/first-entry.html"/>
+        <id>https://kashishkumar.works/first-entry.html</id>
+
+        <updated>2024-01-05T01:14:14-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://kashishkumar.works/media/posts/1/DLvwM-0VoAEp_3K.jpg" sizes="100vw" srcset="https://kashishkumar.works/media/posts/1/responsive/DLvwM-0VoAEp_3K-xs.jpg 300w ,https://kashishkumar.works/media/posts/1/responsive/DLvwM-0VoAEp_3K-sm.jpg 480w ,https://kashishkumar.works/media/posts/1/responsive/DLvwM-0VoAEp_3K-md.jpg 768w ,https://kashishkumar.works/media/posts/1/responsive/DLvwM-0VoAEp_3K-lg.jpg 1024w ,https://kashishkumar.works/media/posts/1/responsive/DLvwM-0VoAEp_3K-xl.jpg 1360w ,https://kashishkumar.works/media/posts/1/responsive/DLvwM-0VoAEp_3K-2xl.jpg 1600w"  height="2760" width="3574" alt="" />
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
 </feed>
