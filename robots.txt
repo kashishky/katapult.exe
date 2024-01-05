@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kashishkumar.works/sitemap.xml
